@@ -19,4 +19,4 @@ A simple Node.js project using **Puppeteer** to scrape data from web pages.
 
 ```bash
 npm install
-node scraper.js
+node app.js
